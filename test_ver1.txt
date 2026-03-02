@@ -1,4 +1,5 @@
 workブランチでテキスト追加
+コーダーが修正している間に他の作業者がここを更新した
 githup-practice-workのmainでテキスト追加
 github上で、直接　github-practiceのレポジトリのファイルをいじってる
 ■バージョン管理システム
