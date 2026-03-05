@@ -1,326 +1,8 @@
-MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="------------boundary1"
+UTF-8-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_PLANT_BOUNDARY"
 
---------------boundary1
-Content-Type: text/html; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-X-MSGTYPE: SPMODETEXT
-
-dポイントマーケット経由のお買物＋本日限定のdショッピングデーで食品・飲料をもっとおトクに
---------------boundary1
-Content-Type: text/html; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-X-CUSTOM-TAG: acctid
-X-MSGTYPE: SPMODEHTML
-
-<!DOCTYPE HTML>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>【お米・水など全品ポイント5倍以上】本日限定dショッピングデー対象食品・飲料をご案内[dポイントマーケット]</title>
-<style type="text/css">
-<!--
-body {
-	margin: 0;
-	padding: 0;
-	width: 100%;
-	line-height: 100%;
-	color: #383838;
-	background-color: #ffffff;
-}
-img {
-	vertical-align: bottom;
-}
-a {
-	color:#0c7ecc;
-	text-decoration:none;
-}
-//
--->
-</style>
-
-</head>
-
-<body>
-<!-- header -->
-<div style="width:100%;margin:0;padding:0;line-height:0;">
-	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/header.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="dPOINTMARKET"></a>
-</div>
-<!-- //header -->
-
-<!-- コンテンツここから -->
-
-<div style="width:95%;margin:auto;">
-	
-<div align="center" style="text-align:center;padding:0;margin:1em auto;font-weight:bold;">
-	<font size="1">dポイントマーケットからのお買物＋</font><br>
-	<font style="padding:0;margin-bottom:0.5em;font-size:11px;font-weight:bold;">全品ポイント5倍以上のdショッピングデーで<br>食品・飲料をもっとおトクに！</font>
-</div>
-	
-</div>
-
-<div style="width:100%;margin:0;background-color:#ffffff;">
-<!-- KV -->
-<div style="width:100%;margin:0 0 1em;">
-	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/repeat/bnr_f2_recommend_food.jpg" width="100%" style="margin:0;padding:0;line-height:0;" alt="おすすめの食品・飲料 まとめ買いでかしこく	おトクにお買物"></a>
-</div>
-<!-- //KV -->
-
-<div style="width:95%;margin:auto;">
-
-<!-- テキスト -->
-<div align="center" style="padding:0;margin-bottom:0.5em;font-size:11px;font-weight:bold;">
-	<font>【本日限定】<br>dショッピングデー対象の食品・飲料をご案内</font>
-</div>
-<div align="center" style="padding:0;margin-bottom:1em;font-size:8px;">
-	<font>※dショッピングデーの詳細は本メール下部をご確認ください。</font>
-</div>
-<!-- //テキスト -->
-
-<!-- 商品1 -->
-<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
-	<font size="1">＼重いお米もかしこくおトクにお買物！／</font>
-</div>
-<div align="center" style="display:flex;align-items:stretch;margin-bottom:0.5em;">
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_251133663_sp_001_001_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f251133663%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000880%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F186%2F1100%2Flarge%2F113800_000.jpg&advertiserId=10001&sku=186113800" width="100%" style="margin:0;padding:0;line-height:0;" alt="白米和の輝きブレンド米5kg">
-				<font size="1">白米和の輝きブレンド米5kg</font>
-			</a>
-		</div>
-	</div>
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_7314430_sp_001_002_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f7314430%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000881%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F186%2F1900%2Flarge%2F1901913_00.jpg&advertiserId=10001&sku=1861901913" width="100%" style="margin:0;padding:0;line-height:0;" alt="パックご飯180g40食">
-				<font size="1">パックご飯180g40食</font>
-			</a>
-		</div>
-	</div>
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_5836453_sp_001_003_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f5836453%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000882%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F019%2F20_k%2Flarge%2F2010010942_k.jpg&advertiserId=10001&sku=0192010010942" width="100%" style="margin:0;padding:0;line-height:0;" alt="新潟県魚沼産コシヒカリ5kg(1袋)">
-				<font size="1">新潟県魚沼産コシヒカリ5kg(1袋)</font>
-			</a>
-		</div>
-	</div>
-</div>
-<div align="center" style="width:100%;margin-bottom:1em">
-	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_004_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA07%2fB17%2fC225%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000176%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-		<font size="1" style="border-bottom:1px solid #0C7ECC;">&#9654;お米をもっと探す</font>
-	</a>
-</div>
-<!-- //商品1 -->
-	
-<!-- 商品2 -->
-<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
-	<font size="1">＼生活に欠かせないお水もかしこくまとめ買い！／</font>
-</div>
-<div align="center" style="display:flex;align-items:stretch;margin-bottom:0.5em;">
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_7015359_sp_001_005_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f7015359%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000883%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F084%2F1015%2Flarge%2F100000370763_image_100000370763_20220420124615.jpg&advertiserId=10001&sku=084100000663163" width="100%" style="margin:0;padding:0;line-height:0;" alt="バナジウム&シリカ天然水500ml×48本">
-				<font size="1">バナジウム&シリカ天然水500ml×48本</font>
-			</a>
-		</div>
-	</div>
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_11264346_sp_001_006_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f11264346%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000884%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F186%2F3103%2Flarge%2F312010_03.jpg&advertiserId=10001&sku=186312010" width="100%" style="margin:0;padding:0;line-height:0;" alt="炭酸水500ml24本　クリスタルスパーク">
-				<font size="1">炭酸水500ml24本　クリスタルスパーク</font>
-			</a>
-		</div>
-	</div>
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_6136992_sp_001_007_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f6136992%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000885%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F001%2F1088%2Flarge%2F10388.jpg&advertiserId=10001&sku=00110388" width="100%" style="margin:0;padding:0;line-height:0;" alt="サントリー天然水（６本×２セット（１本２Ｌ））">
-				<font size="1">サントリー天然水（６本×２セット（１本２Ｌ））</font>
-			</a>
-		</div>
-	</div>
-</div>
-<div align="center" style="width:100%;margin-bottom:1em">
-	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_008_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA08%2fB19%2fC260%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000177%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-		<font size="1" style="border-bottom:1px solid #0C7ECC;">&#9654;水をもっと探す</font>
-	</a>
-</div>
-<!-- //商品2 -->
-
-<!-- 商品3 -->
-<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
-	<font size="1">＼時短やストックにも！惣菜もおトクにお買物！／</font>
-</div>
-<div align="center" style="display:flex;align-items:stretch;margin-bottom:0.5em;">
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_6201365_sp_001_009_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f6201365%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000886%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F080%2Fusd1%2Flarge%2Fus30_td1.jpg&advertiserId=10001&sku=080us30" width="100%" style="margin:0;padding:0;line-height:0;" alt="牛めしの具(プレミアム仕様)30個セット">
-				<font size="1">牛めしの具(プレミアム仕様)30個セット</font>
-			</a>
-		</div>
-	</div>
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_88519143_sp_001_010_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f88519143%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000887%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F454%2Fsh01%2Flarge%2Fshiso48hon48-01.jpg&advertiserId=10001&sku=454dhon48shiso48" width="100%" style="margin:0;padding:0;line-height:0;" alt="しそ餃子48個本餃子48個合計96個セット">
-				<font size="1">しそ餃子48個本餃子48個合計96個セット</font>
-			</a>
-		</div>
-	</div>
-	<div style="display:flex;width:100%;">
-		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_16258634_sp_001_011_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f16258634%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000888%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F216%2Faw0p%2Flarge%2Fawajitamasoup30p.jpg&advertiserId=10001&sku=216awajitamasoup30p" width="100%" style="margin:0;padding:0;line-height:0;" alt="淡路島たまねぎスープ30本入り">
-				<font size="1">淡路島たまねぎスープ30本入り</font>
-			</a>
-		</div>
-	</div>
-</div>
-<div align="center" style="width:100%;margin-bottom:0.5em">
-	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_012_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA07%2fB17%2fC231%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000178%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-		<font size="1" style="border-bottom:1px solid #0C7ECC;">&#9654;惣菜をもっと探す</font>
-	</a>
-</div>
-<!-- //商品3 -->
-
-<div style="padding:0;margin-bottom:1em;font-size:8px;">
-	<font>※本メールの内容は配信時点の情報です。商品の在庫などの状況は変更になっている場合がございます。予めご了承ください。</font>
-</div>
-	
-<!-- ボタン -->
-<div style="width:100%;padding:0;margin-bottom:0.5em;">
-	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_013_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA07%2fB17%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000179%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-		<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn/btn_other_food.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="そのほかの食品はこちら">
-	</a>
-</div>
-<!--// ボタン -->
-	
-<!-- ボタン -->
-<div style="width:100%;padding:0;margin-bottom:1em;">
-	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_014_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA08%2fB19%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000180%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-		<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn/btn_other_drink.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="そのほかの飲料はこちら">
-	</a>
-</div>
-<!--// ボタン -->
-
-<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
-	<font size="1">【最大40倍・ポイント利用分5％還元】<br>＼dショッピングデーはこちらをチェック／</font>
-</div>
-<div style="width:100%;margin-bottom:0.5em;">
-	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/dsday/bnr_dsday_poinko.jpg" width="100%" style="margin:0;padding:0;line-height:0;" alt="要エントリー 毎月10日・20日 dショッピングデー 全品5倍以上 最大ポイント40倍 dポイント（期間・用途限定）4,400円（税込・送料別）以上購入/上限4,000ポイント（期間・用途限定）/対象商品ごとにポイントの付与倍率が異なります"></a>
-</div>
-<!-- ボタン -->
-<div style="width:100%;padding:0;margin-bottom:0.5em;">
-	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in03_10066_sp_001_015_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fshop%2f10001%2fprogram%2f10066%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_pgd_0005312%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-		<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn/btn_dshopping.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="dショッピングはこちら">
-	</a>
-</div>
-<!--// ボタン -->
-<div style="padding:0;margin-bottom:1em;font-size:8px;">
-	<font>※キャンペーン規約や各ショップの確認事項を必ずご確認ください。<br>
-		※お買物をする際は、dポイントマーケットサイト内の、「ショップページもしくは商品ページ内のショップサイトへのリンク」（赤いボタン）からショップへ遷移してください。</font>
-</div>
-
-<hr color="#E0E0E0" style="margin-bottom:1em;">
-
-<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
-	<font size="1">dポイントマーケットとdショッピングの<br>違いが気になる方は<a style="border-bottom:1px solid #0C7ECC;" href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_art_sp_001_016_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2farticle%2f125318%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_art_0000173%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">こちら</a>をチェック！</font>
-</div>
-
-<div align="center" style="width:50%;margin:0 auto;padding-bottom:0.5em;line-height:0;">
-	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_art_sp_001_017_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2farticle%2f125318%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_art_0000174%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-		<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/repeat/bnr_ds_dpm_diff.jpg" width="100%" style="margin:0;padding:0;line-height:0;" alt="dポイントマーケット dショッピング 違いは？">
-	</a>
-</div>
-
-<hr color="#E0E0E0" style="margin-bottom:1em;">
-
-<!-- 定型ボタン・テキスト -->
-<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
-	<font size="1">＼ほかにも人気ショップがたくさん！／</font>
-</div>
-
-<div style="width:100%;padding:0;margin-bottom:1em">
-<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_top_sp_001_018_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202507_dtp_0000190%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-	<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn_dpm_top.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="dポイントマーケットTOPへ"></a>
-</div>
-
-<div style="padding:0;margin-bottom:0.5em;font-weight:bold;">
-	<font size="2">dポイントマーケット（dポマ）とは</font>
-</div>
-
-<div style="padding-bottom:1em;">
-	<font size="2">dポイントマーケットを経由するだけで、dポイントがプラスでもらえて、かしこくお買物ができます。詳しくは<a style="text-decoration:none;" href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_001_019_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fabout%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202507_int_0000880%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">はじめての方へ</a>をご確認ください。</font>
-</div>
-<!-- //定型ボタン・テキスト -->
-
-</div>
-<!-- //95% -->
-</div>
-<!-- //コンテンツここまで -->
-
-<!-- footer -->
-<div style="background-color:#F0F0F0;">
-<!-- ページエリア090 start -->
-<div class="area-090">
-<div style="padding:1em 1em 0">
-	<div style="width:100%;margin:0;padding:0;line-height:0;"><a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/txtsurvey01.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="このメールは満足いただけましたか？"></a></div>
-	<div style="width:100%;margin:0;padding:0;line-height:0;">
-	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_001_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000182%26_n00%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey01.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="0"></a></div>
-	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_002_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000183%26_n02%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey02.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="1"></a></div>
-	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_003_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000184%26_n04%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey03.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="2"></a></div>
-	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_004_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000185%26_n06%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey04.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="3"></a></div>
-	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_005_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000186%26_n08%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey05.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="4"></a></div>
-	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_006_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000187%26_n10%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey06.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="5"></a></div>
-	</div>
-	<div style="clear:both"></div>
-</div>
-<hr color="#666666" style="margin:0.8em 0 0.4em;">
-<div style="padding:0 1em">
-	<font size="1">本メールは、dポイントマーケットのメールマガジンに登録いただいた方へお送りしております。<br>本メールの内容は、配信時点での情報です。閲覧のタイミングによっては、価格や在庫状況などが変更になっている場合があります。あらかじめご了承ください。</font>
-</div>
-<hr color="#666666" style="margin:0.4em 0 0.1em;">
-<div align="center" style="font-weight:bold;padding:0;">
-	<font size="1" color="#383838">dポイントマーケット公式</font>
-</div>
-<div align="center" style="display:inline-block;width:100%;margin:0;">
-	<div style="display:inline;margin-right:2.5em;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=ex03_999_sp_090_007_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fx.com%2fdpointmarket%3futm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/iconsns01.gif" style="margin:0; width:10%; vertical-align:bottom;" alt="X"></a></div>
-	<div style="display:inline;margin-right:2.5em;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=ex03_999_sp_090_008_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fwww.instagram.com%2fdpointmarket_official%2f%3futm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/iconsns02.gif" style="margin:0; width:10%; vertical-align:bottom;" alt="Instagram"></a></div>
-	<div style="display:inline;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=ex03_999_sp_090_009_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2flin.ee%2fKgSletWH%3futm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/iconsns03.gif" style="margin:0; width:10%; vertical-align:bottom;" alt="LINE"></a></div>
-</div>
-</div>
-<!-- ページエリア090 end -->
-
-<!-- ページエリア092 start -->
-<div class="area-092" align="center" style="padding-bottom:1em">
-	<hr color="#666666" style="margin:0.4em 0;">
-	<font size="1">お問い合わせは<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_con_sp_092_001_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcontact%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000180%26_ft1%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">こちら</a><br>
-	配信停止は<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_set_sp_092_002_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fmypage%2fsetting%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000181%26_ft2%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">こちら</a><br>
-	配信元：<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=ex03_999_sp_092_003_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fwww.docomo.ne.jp%2fcorporate%2fabout%2foutline%2findex.html%3futm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">(株)ＮＴＴドコモ</a></font>
-</div>
-<!-- ページエリア092 end -->
-</div>
-<!-- //footer -->
-<!-- 開封率 -->
-<img src="https://ms.dmc.docomo.ne.jp/messageCount/mail/open/?idsite=448&utm_source=dmarket&utm_medium=messager&utm_campaign=$_DATE1_$_null_sp&custom=dMCMessageView$_SENDID_$&acd=<%acctid%>" style="display: none;">
-</body>
-</html>
-
---------------boundary1
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
-X-MSGTYPE: NCCTEXT
-X-NCC-FROM: dポイントマーケット <message_r@mail2.apl01.spmode.ne.jp>
-X-NCC-SUBJECT: 【お米・水など全品ポイント5倍以上】本日限定dショッピングデー対象食品・飲料をご案内[dポイントマーケット]
-
-　
---------------boundary1
-Content-Type: text/html; charset=UTF-8
+--=_PLANT_BOUNDARY
+Content-Type: text/html; charset=Shift_JIS
 Content-Transfer-Encoding: 8bit
 X-CUSTOM-TAG: acctid
 X-MSGTYPE: NCCHTML
@@ -328,8 +10,8 @@ X-MSGTYPE: NCCHTML
 <!DOCTYPE HTML>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>【お米・水など全品ポイント5倍以上】本日限定dショッピングデー対象食品・飲料をご案内[dポイントマーケット]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>【お米・水など全品ポイント5倍以上】本日限定dショッピングデー対象食品・飲料をご案内 | dポイントマーケット</title>
 <style type="text/css">
 <!--
 body {
@@ -354,6 +36,11 @@ a {
 </head>
 
 <body>
+  <table border="0" cellpadding="0" cellspacing="0" align="center" style="display: none;">
+  <tr>
+      <td style="width: 0; height: 0; mso-hide: all; font-size: 0"><span style="font-size: 0; line-height: 0">dポイントマーケット経由のお買物＋本日限定のdショッピングデーで食品・飲料をもっとおトクに</span></td>
+  </tr>
+  </table>
 <!-- header -->
 <div style="width:100%;margin:0;padding:0;line-height:0;">
 	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/header.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="dPOINTMARKET"></a>
@@ -374,7 +61,7 @@ a {
 <div style="width:100%;margin:0;background-color:#ffffff;">
 <!-- KV -->
 <div style="width:100%;margin:0 0 1em;">
-	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/repeat/bnr_f2_recommend_food.jpg" width="100%" style="margin:0;padding:0;line-height:0;" alt="おすすめの食品・飲料 まとめ買いでかしこく	おトクにお買物"></a>
+	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/repeat/bnr_f2_recommend_food.jpg" width="100%" style="margin:0;padding:0;line-height:0;" alt="おすすめの食品・飲料 まとめ買いでかしこくおトクにお買物"></a>
 </div>
 <!-- //KV -->
 
@@ -441,9 +128,9 @@ a {
 	</div>
 	<div style="display:flex;width:100%;">
 		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
-			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_11264346_sp_001_006_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f11264346%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000884%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F186%2F3103%2Flarge%2F312010_03.jpg&advertiserId=10001&sku=186312010" width="100%" style="margin:0;padding:0;line-height:0;" alt="炭酸水500ml24本　クリスタルスパーク">
-				<font size="1">炭酸水500ml24本　クリスタルスパーク</font>
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_244212460_sp_001_006_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f244212460%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202603_itm_0000926%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fwww.3ple.jp%2Fimages%2F315x315%2Fpublish%2Fpay4ship%2F800000512211%2Fimage%2F1_20250527144521338.jpg&advertiserId=10001&sku=020800001098859" width="100%" style="margin:0;padding:0;line-height:0;" alt="【500ml×42本】BIYOUDO美陽堂シリカ水">
+				<font size="1">【500ml×42本】BIYOUDO美陽堂シリカ水</font>
 			</a>
 		</div>
 	</div>
@@ -540,25 +227,13 @@ a {
 
 <hr color="#E0E0E0" style="margin-bottom:1em;">
 
-<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
-	<font size="1">dポイントマーケットとdショッピングの<br>違いが気になる方は<a style="border-bottom:1px solid #0C7ECC;" href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_art_sp_001_016_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2farticle%2f125318%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_art_0000173%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">こちら</a>をチェック！</font>
-</div>
-
-<div align="center" style="width:50%;margin:0 auto;padding-bottom:0.5em;line-height:0;">
-	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_art_sp_001_017_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2farticle%2f125318%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_art_0000174%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
-		<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/repeat/bnr_ds_dpm_diff.jpg" width="100%" style="margin:0;padding:0;line-height:0;" alt="dポイントマーケット dショッピング 違いは？">
-	</a>
-</div>
-
-<hr color="#E0E0E0" style="margin-bottom:1em;">
-
 <!-- 定型ボタン・テキスト -->
 <div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
 	<font size="1">＼ほかにも人気ショップがたくさん！／</font>
 </div>
 
 <div style="width:100%;padding:0;margin-bottom:1em">
-<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_top_sp_001_018_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202507_dtp_0000190%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_top_sp_001_016_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202507_dtp_0000190%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
 	<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn_dpm_top.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="dポイントマーケットTOPへ"></a>
 </div>
 
@@ -567,7 +242,7 @@ a {
 </div>
 
 <div style="padding-bottom:1em;">
-	<font size="2">dポイントマーケットを経由するだけで、dポイントがプラスでもらえて、かしこくお買物ができます。詳しくは<a style="text-decoration:none;" href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_001_019_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fabout%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202507_int_0000880%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">はじめての方へ</a>をご確認ください。</font>
+	<font size="2">dポイントマーケットを経由するだけで、dポイントがプラスでもらえて、かしこくお買物ができます。詳しくは<a style="text-decoration:none;" href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_001_017_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fabout%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202507_int_0000880%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">はじめての方へ</a>をご確認ください。</font>
 </div>
 <!-- //定型ボタン・テキスト -->
 
@@ -619,8 +294,317 @@ a {
 </div>
 <!-- //footer -->
 <!-- 開封率 -->
-<img src="https://ms.dmc.docomo.ne.jp/messageCount/mail/open/?idsite=448&utm_source=dmarket&utm_medium=messager&utm_campaign=$_DATE1_$_null_ncc&custom=dMCMessageView$_SENDID_$&acd=<%acctid%>" style="display: none;">
+<img src="https://ms.dmc.docomo.ne.jp/messageCount/mail/open/?idsite=448&utm_source=dmarket&utm_medium=messager&utm_campaign=$_DATE1_$_null&custom=dMCMessageView$_SENDID_$&acd=<%acctid%>" style="display: none;">
 </body>
 </html>
+--=_PLANT_BOUNDARY
+Content-Type: text/html; charset=Shift_JIS
+Content-Transfer-Encoding: 8bit
+X-CUSTOM-TAG: acctid
+X-MSGTYPE: SPMODEHTML
 
---------------boundary1--
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>【お米・水など全品ポイント5倍以上】本日限定dショッピングデー対象食品・飲料をご案内 | dポイントマーケット</title>
+<style type="text/css">
+<!--
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	line-height: 100%;
+	color: #383838;
+	background-color: #ffffff;
+}
+img {
+	vertical-align: bottom;
+}
+a {
+	color:#0c7ecc;
+	text-decoration:none;
+}
+//
+-->
+</style>
+
+</head>
+
+<body>
+  <table border="0" cellpadding="0" cellspacing="0" align="center" style="display: none;">
+  <tr>
+      <td style="width: 0; height: 0; mso-hide: all; font-size: 0"><span style="font-size: 0; line-height: 0">dポイントマーケット経由のお買物＋本日限定のdショッピングデーで食品・飲料をもっとおトクに</span></td>
+  </tr>
+  </table>
+<!-- header -->
+<div style="width:100%;margin:0;padding:0;line-height:0;">
+	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/header.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="dPOINTMARKET"></a>
+</div>
+<!-- //header -->
+
+<!-- コンテンツここから -->
+
+<div style="width:95%;margin:auto;">
+	
+<div align="center" style="text-align:center;padding:0;margin:1em auto;font-weight:bold;">
+	<font size="1">dポイントマーケットからのお買物＋</font><br>
+	<font style="padding:0;margin-bottom:0.5em;font-size:11px;font-weight:bold;">全品ポイント5倍以上のdショッピングデーで<br>食品・飲料をもっとおトクに！</font>
+</div>
+	
+</div>
+
+<div style="width:100%;margin:0;background-color:#ffffff;">
+<!-- KV -->
+<div style="width:100%;margin:0 0 1em;">
+	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/repeat/bnr_f2_recommend_food.jpg" width="100%" style="margin:0;padding:0;line-height:0;" alt="おすすめの食品・飲料 まとめ買いでかしこくおトクにお買物"></a>
+</div>
+<!-- //KV -->
+
+<div style="width:95%;margin:auto;">
+
+<!-- テキスト -->
+<div align="center" style="padding:0;margin-bottom:0.5em;font-size:11px;font-weight:bold;">
+	<font>【本日限定】<br>dショッピングデー対象の食品・飲料をご案内</font>
+</div>
+<div align="center" style="padding:0;margin-bottom:1em;font-size:8px;">
+	<font>※dショッピングデーの詳細は本メール下部をご確認ください。</font>
+</div>
+<!-- //テキスト -->
+
+<!-- 商品1 -->
+<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
+	<font size="1">＼重いお米もかしこくおトクにお買物！／</font>
+</div>
+<div align="center" style="display:flex;align-items:stretch;margin-bottom:0.5em;">
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_251133663_sp_001_001_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f251133663%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000880%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F186%2F1100%2Flarge%2F113800_000.jpg&advertiserId=10001&sku=186113800" width="100%" style="margin:0;padding:0;line-height:0;" alt="白米和の輝きブレンド米5kg">
+				<font size="1">白米和の輝きブレンド米5kg</font>
+			</a>
+		</div>
+	</div>
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_7314430_sp_001_002_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f7314430%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000881%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F186%2F1900%2Flarge%2F1901913_00.jpg&advertiserId=10001&sku=1861901913" width="100%" style="margin:0;padding:0;line-height:0;" alt="パックご飯180g40食">
+				<font size="1">パックご飯180g40食</font>
+			</a>
+		</div>
+	</div>
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_5836453_sp_001_003_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f5836453%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000882%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F019%2F20_k%2Flarge%2F2010010942_k.jpg&advertiserId=10001&sku=0192010010942" width="100%" style="margin:0;padding:0;line-height:0;" alt="新潟県魚沼産コシヒカリ5kg(1袋)">
+				<font size="1">新潟県魚沼産コシヒカリ5kg(1袋)</font>
+			</a>
+		</div>
+	</div>
+</div>
+<div align="center" style="width:100%;margin-bottom:1em">
+	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_004_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA07%2fB17%2fC225%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000176%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+		<font size="1" style="border-bottom:1px solid #0C7ECC;">&#9654;お米をもっと探す</font>
+	</a>
+</div>
+<!-- //商品1 -->
+	
+<!-- 商品2 -->
+<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
+	<font size="1">＼生活に欠かせないお水もかしこくまとめ買い！／</font>
+</div>
+<div align="center" style="display:flex;align-items:stretch;margin-bottom:0.5em;">
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_7015359_sp_001_005_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f7015359%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000883%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F084%2F1015%2Flarge%2F100000370763_image_100000370763_20220420124615.jpg&advertiserId=10001&sku=084100000663163" width="100%" style="margin:0;padding:0;line-height:0;" alt="バナジウム&シリカ天然水500ml×48本">
+				<font size="1">バナジウム&シリカ天然水500ml×48本</font>
+			</a>
+		</div>
+	</div>
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_244212460_sp_001_006_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f244212460%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202603_itm_0000926%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fwww.3ple.jp%2Fimages%2F315x315%2Fpublish%2Fpay4ship%2F800000512211%2Fimage%2F1_20250527144521338.jpg&advertiserId=10001&sku=020800001098859" width="100%" style="margin:0;padding:0;line-height:0;" alt="【500ml×42本】BIYOUDO美陽堂シリカ水">
+				<font size="1">【500ml×42本】BIYOUDO美陽堂シリカ水</font>
+			</a>
+		</div>
+	</div>
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_6136992_sp_001_007_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f6136992%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000885%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F001%2F1088%2Flarge%2F10388.jpg&advertiserId=10001&sku=00110388" width="100%" style="margin:0;padding:0;line-height:0;" alt="サントリー天然水（６本×２セット（１本２Ｌ））">
+				<font size="1">サントリー天然水（６本×２セット（１本２Ｌ））</font>
+			</a>
+		</div>
+	</div>
+</div>
+<div align="center" style="width:100%;margin-bottom:1em">
+	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_008_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA08%2fB19%2fC260%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000177%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+		<font size="1" style="border-bottom:1px solid #0C7ECC;">&#9654;水をもっと探す</font>
+	</a>
+</div>
+<!-- //商品2 -->
+
+<!-- 商品3 -->
+<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
+	<font size="1">＼時短やストックにも！惣菜もおトクにお買物！／</font>
+</div>
+<div align="center" style="display:flex;align-items:stretch;margin-bottom:0.5em;">
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_6201365_sp_001_009_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f6201365%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000886%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F080%2Fusd1%2Flarge%2Fus30_td1.jpg&advertiserId=10001&sku=080us30" width="100%" style="margin:0;padding:0;line-height:0;" alt="牛めしの具(プレミアム仕様)30個セット">
+				<font size="1">牛めしの具(プレミアム仕様)30個セット</font>
+			</a>
+		</div>
+	</div>
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_88519143_sp_001_010_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f88519143%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000887%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F454%2Fsh01%2Flarge%2Fshiso48hon48-01.jpg&advertiserId=10001&sku=454dhon48shiso48" width="100%" style="margin:0;padding:0;line-height:0;" alt="しそ餃子48個本餃子48個合計96個セット">
+				<font size="1">しそ餃子48個本餃子48個合計96個セット</font>
+			</a>
+		</div>
+	</div>
+	<div style="display:flex;width:100%;">
+		<div style="width:100%;margin-right:0.25em;border:1px solid #E0E0E0;">
+			<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in02_16258634_sp_001_011_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fproducts%2f16258634%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_itm_0000888%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+				<img src="https://dpm-affiliate.docomo.ne.jp/api/images?url=https%3A%2F%2Fdshopping.docomo.ne.jp%2Fimages%2Fproduct%2F216%2Faw0p%2Flarge%2Fawajitamasoup30p.jpg&advertiserId=10001&sku=216awajitamasoup30p" width="100%" style="margin:0;padding:0;line-height:0;" alt="淡路島たまねぎスープ30本入り">
+				<font size="1">淡路島たまねぎスープ30本入り</font>
+			</a>
+		</div>
+	</div>
+</div>
+<div align="center" style="width:100%;margin-bottom:0.5em">
+	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_012_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA07%2fB17%2fC231%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000178%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+		<font size="1" style="border-bottom:1px solid #0C7ECC;">&#9654;惣菜をもっと探す</font>
+	</a>
+</div>
+<!-- //商品3 -->
+
+<div style="padding:0;margin-bottom:1em;font-size:8px;">
+	<font>※本メールの内容は配信時点の情報です。商品の在庫などの状況は変更になっている場合がございます。予めご了承ください。</font>
+</div>
+	
+<!-- ボタン -->
+<div style="width:100%;padding:0;margin-bottom:0.5em;">
+	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_013_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA07%2fB17%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000179%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+		<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn/btn_other_food.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="そのほかの食品はこちら">
+	</a>
+</div>
+<!--// ボタン -->
+	
+<!-- ボタン -->
+<div style="width:100%;padding:0;margin-bottom:1em;">
+	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_cty_sp_001_014_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcategory%2fA08%2fB19%2f%3fadvertiserId%3d10001%26utm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_cat_0000180%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+		<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn/btn_other_drink.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="そのほかの飲料はこちら">
+	</a>
+</div>
+<!--// ボタン -->
+
+<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
+	<font size="1">【最大40倍・ポイント利用分5％還元】<br>＼dショッピングデーはこちらをチェック／</font>
+</div>
+<div style="width:100%;margin-bottom:0.5em;">
+	<a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/dsday/bnr_dsday_poinko.jpg" width="100%" style="margin:0;padding:0;line-height:0;" alt="要エントリー 毎月10日・20日 dショッピングデー 全品5倍以上 最大ポイント40倍 dポイント（期間・用途限定）4,400円（税込・送料別）以上購入/上限4,000ポイント（期間・用途限定）/対象商品ごとにポイントの付与倍率が異なります"></a>
+</div>
+<!-- ボタン -->
+<div style="width:100%;padding:0;margin-bottom:0.5em;">
+	<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in03_10066_sp_001_015_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fshop%2f10001%2fprogram%2f10066%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202602_pgd_0005312%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+		<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn/btn_dshopping.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="dショッピングはこちら">
+	</a>
+</div>
+<!--// ボタン -->
+<div style="padding:0;margin-bottom:1em;font-size:8px;">
+	<font>※キャンペーン規約や各ショップの確認事項を必ずご確認ください。<br>
+		※お買物をする際は、dポイントマーケットサイト内の、「ショップページもしくは商品ページ内のショップサイトへのリンク」（赤いボタン）からショップへ遷移してください。</font>
+</div>
+
+<hr color="#E0E0E0" style="margin-bottom:1em;">
+
+<!-- 定型ボタン・テキスト -->
+<div align="center" style="text-align:center;padding:0;margin-bottom:0.5em;font-weight:bold;">
+	<font size="1">＼ほかにも人気ショップがたくさん！／</font>
+</div>
+
+<div style="width:100%;padding:0;margin-bottom:1em">
+<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_top_sp_001_016_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202507_dtp_0000190%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">
+	<img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btn_dpm_top.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="dポイントマーケットTOPへ"></a>
+</div>
+
+<div style="padding:0;margin-bottom:0.5em;font-weight:bold;">
+	<font size="2">dポイントマーケット（dポマ）とは</font>
+</div>
+
+<div style="padding-bottom:1em;">
+	<font size="2">dポイントマーケットを経由するだけで、dポイントがプラスでもらえて、かしこくお買物ができます。詳しくは<a style="text-decoration:none;" href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_001_017_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fabout%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202507_int_0000880%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">はじめての方へ</a>をご確認ください。</font>
+</div>
+<!-- //定型ボタン・テキスト -->
+
+</div>
+<!-- //95% -->
+</div>
+<!-- //コンテンツここまで -->
+
+<!-- footer -->
+<div style="background-color:#F0F0F0;">
+<!-- ページエリア090 start -->
+<div class="area-090">
+<div style="padding:1em 1em 0">
+	<div style="width:100%;margin:0;padding:0;line-height:0;"><a style="pointer-events: none;" href="#"><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/txtsurvey01.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="このメールは満足いただけましたか？"></a></div>
+	<div style="width:100%;margin:0;padding:0;line-height:0;">
+	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_001_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000182%26_n00%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey01.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="0"></a></div>
+	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_002_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000183%26_n02%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey02.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="1"></a></div>
+	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_003_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000184%26_n04%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey03.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="2"></a></div>
+	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_004_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000185%26_n06%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey04.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="3"></a></div>
+	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_005_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000186%26_n08%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey05.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="4"></a></div>
+	<div align="center" style="width:16.6666667%; float:left; margin:0 auto;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_etc_sp_090_006_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcommon%2fterms%2fmlmgsurvey%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000187%26_n10%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/btnsurvey06.gif" width="100%" style="margin:0;padding:0;line-height:0;" alt="5"></a></div>
+	</div>
+	<div style="clear:both"></div>
+</div>
+<hr color="#666666" style="margin:0.8em 0 0.4em;">
+<div style="padding:0 1em">
+	<font size="1">本メールは、dポイントマーケットのメールマガジンに登録いただいた方へお送りしております。<br>本メールの内容は、配信時点での情報です。閲覧のタイミングによっては、価格や在庫状況などが変更になっている場合があります。あらかじめご了承ください。</font>
+</div>
+<hr color="#666666" style="margin:0.4em 0 0.1em;">
+<div align="center" style="font-weight:bold;padding:0;">
+	<font size="1" color="#383838">dポイントマーケット公式</font>
+</div>
+<div align="center" style="display:inline-block;width:100%;margin:0;">
+	<div style="display:inline;margin-right:2.5em;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=ex03_999_sp_090_007_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fx.com%2fdpointmarket%3futm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/iconsns01.gif" style="margin:0; width:10%; vertical-align:bottom;" alt="X"></a></div>
+	<div style="display:inline;margin-right:2.5em;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=ex03_999_sp_090_008_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fwww.instagram.com%2fdpointmarket_official%2f%3futm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/iconsns02.gif" style="margin:0; width:10%; vertical-align:bottom;" alt="Instagram"></a></div>
+	<div style="display:inline;"><a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=ex03_999_sp_090_009_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2flin.ee%2fKgSletWH%3futm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt="><img src="https://c1.dmarket.docomo.ne.jp/mailmagazine/common/iconsns03.gif" style="margin:0; width:10%; vertical-align:bottom;" alt="LINE"></a></div>
+</div>
+</div>
+<!-- ページエリア090 end -->
+
+<!-- ページエリア092 start -->
+<div class="area-092" align="center" style="padding-bottom:1em">
+	<hr color="#666666" style="margin:0.4em 0;">
+	<font size="1">お問い合わせは<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_con_sp_092_001_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fcontact%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000180%26_ft1%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">こちら</a><br>
+	配信停止は<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=in01_set_sp_092_002_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fdmarket.docomo.ne.jp%2fmypage%2fsetting%2f%3futm_source%3ddpointmarket%26utm_medium%3dmessager%26utm_campaign%3ddpm_202410_oth_0000181%26_ft2%26utm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">こちら</a><br>
+	配信元：<a href="https://dmarket.docomo.ne.jp/portal/clicklog?lid=ex03_999_sp_092_003_mail=$_DATE1_$-$_SENDID_$_99&url=https%3a%2f%2fwww.docomo.ne.jp%2fcorporate%2fabout%2foutline%2findex.html%3futm_content%3ddclid_ma$_SENDID_$&acd=<%acctid%>&opt=">(株)ＮＴＴドコモ</a></font>
+</div>
+<!-- ページエリア092 end -->
+</div>
+<!-- //footer -->
+<!-- 開封率 -->
+<img src="https://ms.dmc.docomo.ne.jp/messageCount/mail/open/?idsite=448&utm_source=dmarket&utm_medium=messager&utm_campaign=$_DATE1_$_null&custom=dMCMessageView$_SENDID_$&acd=<%acctid%>" style="display: none;">
+</body>
+</html>
+--=_PLANT_BOUNDARY
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: 8bit
+X-NCC-FROM: dポイントマーケット <message_r@mail2.apl01.spmode.ne.jp>
+X-NCC-SUBJECT: 【お米・水など全品ポイント5倍以上】本日限定dショッピングデー対象食品・飲料をご案内 | dポイントマーケット
+X-MSGTYPE: NCCTEXT
+
+dポイントマーケット経由のお買物＋本日限定のdショッピングデーで食品・飲料をもっとおトクに
+--=_PLANT_BOUNDARY
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: 8bit
+X-MSGTYPE: SPMODETEXT
+
+dポイントマーケット経由のお買物＋本日限定のdショッピングデーで食品・飲料をもっとおトクに
+--=_PLANT_BOUNDARY--
